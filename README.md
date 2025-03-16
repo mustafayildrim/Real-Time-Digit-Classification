@@ -52,6 +52,9 @@ pip install tensorflow opencv-python numpy matplotlib
 
 ## Example Output
 
+![Output 1](outputs/canvas_1.png)
+![Output 2](outputs/canvas_5.png)
+![Output 3](outputs/canvas_7.png)
 
 
 ## Future Enhancements
