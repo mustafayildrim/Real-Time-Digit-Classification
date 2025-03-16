@@ -43,7 +43,7 @@ pip install tensorflow opencv-python numpy matplotlib
 - Run all cells in the Jupyter Notebook until the real-time recognition section.
 - Draw digits on the OpenCV canvas.
 - Press `p` to predict the drawn digit.
-- - Press `c` to clear the drawn digit.
+- Press `c` to clear the drawn digit.
 - Press `q` to exit the application.
 
 ## Training Results
